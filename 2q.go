@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/hashicorp/golang-lru/simplelru"
+	"github.com/kaspanet/golang-lru/simplelru"
 )
 
 const (
